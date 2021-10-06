@@ -27,7 +27,7 @@ Mac OS
 
 
 ## <p>Take a look at my portfolio <a href="https://sunnydiaz.com/">here</a>
-<img src="kirby.gif" width="300"/></p>
+<img src="ami.gif" width="300"/></p>
 
 <!--
 **SunnySparks/SunnySparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
