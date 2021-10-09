@@ -26,8 +26,8 @@ Mac OS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysparks&theme=radical)](https://github.com/sunnysparks/github-readme-stats) ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnysparks&show_icons=true&theme=radical) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SunnySparks&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## <p>Take a look at my portfolio <a href="https://sunnydiaz.com/">here</a>
-<img src="ami.gif" width="300"/></p>
+## <p>Click on kirby's star to warp to my portfolio <a href="https://sunnydiaz.com/"><img src="kirby.gif" width="300"/></a>
+</p>
 
 <!--
 **SunnySparks/SunnySparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
