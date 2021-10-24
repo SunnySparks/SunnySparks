@@ -25,7 +25,7 @@ Mac OS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysparks&theme=radical)](https://github.com/sunnysparks/github-readme-stats) ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnysparks&show_icons=true&theme=radical)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=radical)](https://github.com/sunnysparks/github-readme-stats)
 
 
 
