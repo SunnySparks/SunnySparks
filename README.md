@@ -28,10 +28,6 @@ Mac OS
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=radical)](https://github.com/sunnysparks/github-readme-stats)
 
 
-
-## <p>Click on kirby's star to warp to my portfolio <a href="https://sunnydiaz.com/"><img src="kirby.gif" width="300"/></a>
-</p>
-
 <!--
 **SunnySparks/SunnySparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
